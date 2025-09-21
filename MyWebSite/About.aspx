@@ -6,5 +6,6 @@
         <h3>Your application description page.</h3>
         <p>Use this area to provide additional information.</p>
        <asp:Label runat="server" id="HelloWorldLabel"></asp:Label>
+        <a href="Contact.aspx">Contact Us</a>
     </main>
 </asp:Content>
